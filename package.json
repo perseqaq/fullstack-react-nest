@@ -9,6 +9,6 @@
   ],
   "scripts": {
     "client": "lerna exec --scope client -- yarn start",
-    "server": "lerna exec --scope server -- yarn start"
+    "server": "lerna exec --scope server -- yarn start:dev"
   }
 }
